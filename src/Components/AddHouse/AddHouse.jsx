@@ -1,6 +1,6 @@
 import{useState} from "react"
 import axios from "axios"
-export const AddHouse = () => {
+export const AddHouse = (props) => {
 
  const[formdata,setFormdata] =useState({
  name:"",
@@ -20,7 +20,7 @@ export const AddHouse = () => {
  const handleSubmit =(e)=>{
    e.preventDefault()
    axios.post("http://localhost:8080/houses",formdata).then(()=>{
-     alert("useer updated")
+     alert("useer updated in our data")
      setFormdata({
       name:"",
       ownerName:"",
@@ -64,7 +64,6 @@ export const AddHouse = () => {
         <input checked={""} type="checkbox" className="married" />
         <br />
         <label>image</label>
-        <input value={formdata.image} onChange={handleChange} type="text" className="image" required />
         <br />
         <input className="submitBtn" type="submit" />
       </form>

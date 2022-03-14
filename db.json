@@ -17,6 +17,60 @@
       "rent": "asdasd",
       "image": "saddasd",
       "id": 2
+    },
+    {
+      "name": "ayush",
+      "ownerName": "padmini",
+      "address": "delhi",
+      "areaCode": "110059",
+      "rent": "10000",
+      "image": "asd",
+      "id": 3
+    },
+    {
+      "name": "ayush",
+      "ownerName": "padmini",
+      "address": "delhi",
+      "areaCode": "110059",
+      "rent": "10000",
+      "image": "asd",
+      "id": 4
+    },
+    {
+      "name": "hero",
+      "ownerName": "heroine",
+      "address": "jain",
+      "areaCode": "1234212",
+      "rent": "fhggfxf",
+      "image": "sasfafs",
+      "id": 5
+    },
+    {
+      "name": "ayush",
+      "ownerName": "ayush",
+      "address": "hashd",
+      "areaCode": "1109",
+      "rent": "112212",
+      "image": "qweqwe",
+      "id": 6
+    },
+    {
+      "name": "akanksha",
+      "ownerName": "ayush",
+      "address": "jain colony",
+      "areaCode": "110059",
+      "rent": "12345",
+      "image": "",
+      "id": 7
+    },
+    {
+      "name": "roxy",
+      "ownerName": "rosd",
+      "address": "delhi",
+      "areaCode": "110017",
+      "rent": "0",
+      "image": "asd",
+      "id": 8
     }
   ]
 }
