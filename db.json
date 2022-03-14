@@ -1,0 +1,22 @@
+{
+  "houses": [
+    {
+      "name": "asdasd",
+      "ownerName": "asdasd",
+      "address": "asdasdasdasd",
+      "areaCode": "sadasd",
+      "rent": "asdasd",
+      "image": "saddasd",
+      "id": 1
+    },
+    {
+      "name": "asdasd",
+      "ownerName": "asdasd",
+      "address": "asdasdasdasd",
+      "areaCode": "sadasd",
+      "rent": "asdasd",
+      "image": "saddasd",
+      "id": 2
+    }
+  ]
+}
